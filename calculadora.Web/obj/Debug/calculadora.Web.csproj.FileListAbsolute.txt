@@ -1,0 +1,5 @@
+c:\users\vanilson\documents\visual studio 2012\Projects\calculadora\calculadora.Web\bin\calculadora.Web.dll
+c:\users\vanilson\documents\visual studio 2012\Projects\calculadora\calculadora.Web\bin\calculadora.Web.pdb
+c:\users\vanilson\documents\visual studio 2012\Projects\calculadora\calculadora.Web\obj\Debug\calculadora.Web.csprojResolveAssemblyReference.cache
+c:\users\vanilson\documents\visual studio 2012\Projects\calculadora\calculadora.Web\obj\Debug\calculadora.Web.dll
+c:\users\vanilson\documents\visual studio 2012\Projects\calculadora\calculadora.Web\obj\Debug\calculadora.Web.pdb
